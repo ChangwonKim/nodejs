@@ -2,7 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "description": "nodejs tutorial",
-  "main": "index.js",
+  "main": "init.js",
   "scripts": {
     "start": "nodemon --exec babel-node init.js"
   },
